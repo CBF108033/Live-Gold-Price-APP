@@ -8,17 +8,14 @@
 - Android Studio
 - 手機模擬器為Nexus 5X API 30
 
-### 註冊/登入頁面(FireBase)
-<img alt="Login" src="./images/loginVideo.gif">
-
-### 主選單頁面
-<img alt="Setting" src="./images/settingVideo.gif">
-
-### 台錢公克換算
-<img alt="Switch" src="./images/switchVideo.gif">
-
-### 黃金買賣筆記
-<img alt="Note" src="./images/noteVideo.gif">
+### 實際操作
+<div>
+<img alt="Setting" src="./images/settingVideo.gif" width=20%>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Switch" src="./images/switchVideo.gif" width=20%>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Note" src="./images/noteVideo.gif" width=20%>
+</div>
 
 ### 參考資料
 - [金價即時通【App Store 預覽】](https://apps.apple.com/tw/app/%E9%87%91%E5%83%B9%E5%8D%B3%E6%99%82%E9%80%9A/id1613920866)
